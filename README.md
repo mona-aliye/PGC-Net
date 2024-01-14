@@ -1,9 +1,19 @@
 # TransUFold
 A novel deep learning approach for enhancing the accuracy of image-based cells counting.
 # Pre-trained models
-Pretrained models can be found in our models folder
+You can download our trained model in the link below：
+
+[models](https://drive.google.com/file/d/1hoBHjqnpTY6HbjCy8QiYdaA8ylgFR4av/view?usp=drive_link)
+
+Pretrained models should be put in models folder.
+
 # data
-The data we used in the paper can be found in the data folder
+You can download datasets in the link below：
+
+[datasets](https://drive.google.com/drive/folders/1P1xxG5F8-DeaCuXRh4dN52N3YiW8LsBz?usp=drive_link)
+
+Datasets should be put in data folder.
+
 # Usage
 ## Train
 Feel free to use the provided CSV file template for batch training. Here, we offer batch training configuration files in CSV format for four datasets. Then run the following code to train
