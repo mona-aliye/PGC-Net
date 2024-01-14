@@ -1,0 +1,11 @@
+m_mp_ds,m_mp_us,m_mp_ce,m_mp_c_n,m_mp_bil,m_mp_gi,m_mp_gf,o_op_lr,d_n,d_rd,d_bs,d_vs,d_cs,h_s,h_sd,h_is,h_sn,w_p,w_n,w_d
+DeepConv,GroupConv,"[0,0,1]",ICA,"[[0,1], [0,0], [0,0]]","[0.4,0.8,0.4]",None,0.01,VGG,./data/VGG/VGG.hdf5,16,"[64,136]","[224,224]",2,./stat2/PGCNet/VGG/A0.4b0.8c0.4df1,"(3, 224, 224)",100,VGG,A0.4b0.8c0.4df,False
+DeepConv,GroupConv,"[0,0,1]",ICA,"[[0,1], [0,0], [0,0]]","[0.4,0.8,0.4]",None,0.01,VGG,./data/VGG/VGG.hdf5,16,"[64,136]","[224,224]",2,./stat2/PGCNet/VGG/A0.4b0.8c0.4df2,"(3, 224, 224)",100,VGG,A0.4b0.8c0.4df,False
+DeepConv,GroupConv,"[0,0,1]",ICA,"[[0,1], [0,0], [0,0]]","[0.4,0.8,0.4]",None,0.01,VGG,./data/VGG/VGG.hdf5,16,"[64,136]","[224,224]",2,./stat2/PGCNet/VGG/A0.4b0.8c0.4df3,"(3, 224, 224)",100,VGG,A0.4b0.8c0.4df,False
+DeepConv,GroupConv,"[0,0,1]",ICA,"[[0,1], [0,0], [0,0]]","[0.4,0.8,0.4]",None,0.01,VGG,./data/VGG/VGG.hdf5,16,"[64,136]","[224,224]",2,./stat2/PGCNet/VGG/A0.4b0.8c0.4df4,"(3, 224, 224)",100,VGG,A0.4b0.8c0.4df,False
+DeepConv,GroupConv,"[0,0,1]",ICA,"[[0,1], [0,0], [0,0]]","[0.4,0.8,0.4]",None,0.01,VGG,./data/VGG/VGG.hdf5,16,"[64,136]","[224,224]",2,./stat2/PGCNet/VGG/A0.4b0.8c0.4df5,"(3, 224, 224)",100,VGG,A0.4b0.8c0.4df,False
+DeepConv,GroupConv,"[0,0,1]",ICA,"[[0,1], [0,0], [0,0]]","[0.4,0.8,0.4]",None,0.01,VGG,./data/VGG/VGG.hdf5,16,"[64,136]","[224,224]",2,./stat2/PGCNet/VGG/A0.4b0.8c0.4df6,"(3, 224, 224)",100,VGG,A0.4b0.8c0.4df,False
+DeepConv,GroupConv,"[0,0,1]",ICA,"[[0,1], [0,0], [0,0]]","[0.4,0.8,0.4]",None,0.01,VGG,./data/VGG/VGG.hdf5,16,"[64,136]","[224,224]",2,./stat2/PGCNet/VGG/A0.4b0.8c0.4df7,"(3, 224, 224)",100,VGG,A0.4b0.8c0.4df,False
+DeepConv,GroupConv,"[0,0,1]",ICA,"[[0,1], [0,0], [0,0]]","[0.4,0.8,0.4]",None,0.01,VGG,./data/VGG/VGG.hdf5,16,"[64,136]","[224,224]",2,./stat2/PGCNet/VGG/A0.4b0.8c0.4df8,"(3, 224, 224)",100,VGG,A0.4b0.8c0.4df,False
+DeepConv,GroupConv,"[0,0,1]",ICA,"[[0,1], [0,0], [0,0]]","[0.4,0.8,0.4]",None,0.01,VGG,./data/VGG/VGG.hdf5,16,"[64,136]","[224,224]",2,./stat2/PGCNet/VGG/A0.4b0.8c0.4df9,"(3, 224, 224)",100,VGG,A0.4b0.8c0.4df,False
+DeepConv,GroupConv,"[0,0,1]",ICA,"[[0,1], [0,0], [0,0]]","[0.4,0.8,0.4]",None,0.01,VGG,./data/VGG/VGG.hdf5,16,"[64,136]","[224,224]",2,./stat2/PGCNet/VGG/A0.4b0.8c0.4df10,"(3, 224, 224)",100,VGG,A0.4b0.8c0.4df,False

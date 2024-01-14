@@ -1,0 +1,11 @@
+m_mp_ds,m_mp_us,m_mp_ce,m_mp_c_n,m_mp_bil,m_mp_gi,m_mp_gf,o_op_lr,d_n,d_rd,d_bs,d_vs,d_cs,h_s,h_sd,h_is,h_sn,w_p,w_n,w_d
+DeepConv,GroupConv,"[0,0,1]",ICA,"[[0,1], [0,0], [0,0]]","[0.4,0.8,0.4]",None,0.01,DCC,./data/DCC/DCC.hdf5,16,"[100,76]","[224,224]",2,./stat2/PGCNet/DCC/DCCA0b0.8c0df1,"(3, 224, 224)",300,DCC,DCCA0b0.8c0df,False
+DeepConv,GroupConv,"[0,0,1]",ICA,"[[0,1], [0,0], [0,0]]","[0.4,0.8,0.4]",None,0.01,DCC,./data/DCC/DCC.hdf5,16,"[100,76]","[224,224]",2,./stat2/PGCNet/DCC/DCCA0b0.8c0df2,"(3, 224, 224)",300,DCC,DCCA0b0.8c0df,False
+DeepConv,GroupConv,"[0,0,1]",ICA,"[[0,1], [0,0], [0,0]]","[0.4,0.8,0.4]",None,0.01,DCC,./data/DCC/DCC.hdf5,16,"[100,76]","[224,224]",2,./stat2/PGCNet/DCC/DCCA0b0.8c0df3,"(3, 224, 224)",300,DCC,DCCA0b0.8c0df,False
+DeepConv,GroupConv,"[0,0,1]",ICA,"[[0,1], [0,0], [0,0]]","[0.4,0.8,0.4]",None,0.01,DCC,./data/DCC/DCC.hdf5,16,"[100,76]","[224,224]",2,./stat2/PGCNet/DCC/DCCA0b0.8c0df4,"(3, 224, 224)",300,DCC,DCCA0b0.8c0df,False
+DeepConv,GroupConv,"[0,0,1]",ICA,"[[0,1], [0,0], [0,0]]","[0.4,0.8,0.4]",None,0.01,DCC,./data/DCC/DCC.hdf5,16,"[100,76]","[224,224]",2,./stat2/PGCNet/DCC/DCCA0b0.8c0df5,"(3, 224, 224)",300,DCC,DCCA0b0.8c0df,False
+DeepConv,GroupConv,"[0,0,1]",ICA,"[[0,1], [0,0], [0,0]]","[0.4,0.8,0.4]",None,0.01,DCC,./data/DCC/DCC.hdf5,16,"[100,76]","[224,224]",2,./stat2/PGCNet/DCC/DCCA0b0.8c0df6,"(3, 224, 224)",300,DCC,DCCA0b0.8c0df,False
+DeepConv,GroupConv,"[0,0,1]",ICA,"[[0,1], [0,0], [0,0]]","[0.4,0.8,0.4]",None,0.01,DCC,./data/DCC/DCC.hdf5,16,"[100,76]","[224,224]",2,./stat2/PGCNet/DCC/DCCA0b0.8c0df7,"(3, 224, 224)",300,DCC,DCCA0b0.8c0df,False
+DeepConv,GroupConv,"[0,0,1]",ICA,"[[0,1], [0,0], [0,0]]","[0.4,0.8,0.4]",None,0.01,DCC,./data/DCC/DCC.hdf5,16,"[100,76]","[224,224]",2,./stat2/PGCNet/DCC/DCCA0b0.8c0df8,"(3, 224, 224)",300,DCC,DCCA0b0.8c0df,False
+DeepConv,GroupConv,"[0,0,1]",ICA,"[[0,1], [0,0], [0,0]]","[0.4,0.8,0.4]",None,0.01,DCC,./data/DCC/DCC.hdf5,16,"[100,76]","[224,224]",2,./stat2/PGCNet/DCC/DCCA0b0.8c0df9,"(3, 224, 224)",300,DCC,DCCA0b0.8c0df,False
+DeepConv,GroupConv,"[0,0,1]",ICA,"[[0,1], [0,0], [0,0]]","[0.4,0.8,0.4]",None,0.01,DCC,./data/DCC/DCC.hdf5,16,"[100,76]","[224,224]",2,./stat2/PGCNet/DCC/DCCA0b0.8c0df10,"(3, 224, 224)",300,DCC,DCCA0b0.8c0df,False
