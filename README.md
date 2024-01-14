@@ -6,15 +6,14 @@ Pretrained models can be found in our models folder
 The data we used in the paper can be found in the data folder
 # Usage
 ## Train
-Feel free to use the provided CSV file template for batch training. Here, we offer batch training configuration files in CSV format for four datasets.You can find them in "config_bat" folder.
+Feel free to use the provided CSV file template for batch training. Here, we offer batch training configuration files in CSV format for four datasets.You can find them in "config_bat" folder.Run the following code to train
 
-For example:
 `python -u main_bat.py train_VGG_bat.csv output.csv`
 
 The training results will be output in the 'output.csv' file.
 
 ## Predict
-You can use our trained models or train your own models. Put the model in the models folder and the '.hdf5' file to be tested in the data folder. Run the following code to test
+You can use our trained models or train your own models. Put the model in the models folder and the '.hdf5' file to be tested in the data folder. Run the following code to Predict
 
 `python -u predict.py predict_config.yml`
 
