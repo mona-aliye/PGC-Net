@@ -1,0 +1,4 @@
+file_dir: "./data/VGG/VGG.hdf5"
+save_dir: './predict/PGCNet/VGG/'
+model_path: 'models/VGG_model_mae_1.9968914455837674.pth'
+scale_num: 100

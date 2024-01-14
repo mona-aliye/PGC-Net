@@ -1,0 +1,62 @@
+model:
+  name: PGCNet
+  model_params:
+    down_sampling: MaxPool
+    up_sampling: TransConv
+    channel_attention_enable:  [0,0,0,0,0,0]
+    channel_attention:
+      name: FC
+      channel_attention_params:
+        vector_dimension: 16
+    caff_enable: [0,0,1]
+    caff:
+      name: ICA
+      channel_attention_params:
+        vector_dimension: 16
+    bil: [[0,1], [0,0], [0,0]]
+    gradient_initial: [1, 1, 1]
+    gradient_func: None
+
+optimizer:
+  name: Adam
+  optimizer_params:
+    lr: 0.01
+    weight_decay: 0.001
+
+
+lr_scheduler:
+  name: CosineAnnealingWarmRestarts
+  scheduler_params:
+    T_0: 50
+    T_mult: 2
+
+
+loss:
+  name: MSE
+  loss_params:
+    zero_coef: 0.9
+
+dataset:
+  name: VGG
+  root_dir: "./data/VGG/VGG.hdf5"
+  batch_size: 16
+  val_split: [64,136]
+  crop_size: [224,224]
+  num_workers: 0
+
+hyperparams:
+  num_epochs: 350
+  seed: 2
+  RESUME: False
+  save_checkpoint: True
+  frequency: 100
+  log_frequency: 10
+  save_dir: './stat/PGCNet/VGG/tztsy_nc1/'
+  print_stat: True
+  input_shape: (3, 224, 224)
+  scale_num: 100
+
+wandb:
+  project: "VGG"
+  name: PGCNet
+  disabled: True
