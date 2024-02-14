@@ -1,4 +1,4 @@
-# TransUFold
+# PGC-Net
 A novel deep learning approach for enhancing the accuracy of image-based cells counting.
 # Pre-trained models
 You can download our trained model in the link below：
